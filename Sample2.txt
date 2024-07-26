@@ -1,1 +1,2 @@
 Hi, this my second sample text file
+My Sample2
