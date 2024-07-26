@@ -1,2 +1,2 @@
 Hi, this my second sample text file
-My Sample2
+My Sample2 is edited for better reading.
