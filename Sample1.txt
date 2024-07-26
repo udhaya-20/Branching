@@ -1,4 +1,2 @@
 Hello, this is my first Sample file
 My Sample1
-I have made some changes
-New Change
